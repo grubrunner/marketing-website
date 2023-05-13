@@ -1,0 +1,1 @@
+jQuery(document).ready(function(n){n("body").on("click",".st-onoffswitch",function(){var t=n(this);t.hasClass("switch-on")?(n(this).removeClass("switch-on"),t.next("input").val(!1).trigger("change")):(n(this).addClass("switch-on"),t.next("input").val(!0).trigger("change"))})});

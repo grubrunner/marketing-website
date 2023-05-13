@@ -1,0 +1,165 @@
+# Copyright (C) 2019 Shark Themes
+# This file is distributed under the same license as the TopBar Call To Action package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TopBar Call To Action 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/st-topbar-cta\n"
+"POT-Creation-Date: 2019-11-06 06:11:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: includes/controls.php:78 includes/settings.php:57
+msgid "Buy Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TopBar Call To Action"
+msgstr ""
+
+#: includes/customizer.php:25
+msgid "Topbar call to action setting options."
+msgstr ""
+
+#: includes/customizer.php:34
+msgid "Topbar Call To Action Pro"
+msgstr ""
+
+#: includes/customizer.php:47
+msgid "General"
+msgstr ""
+
+#: includes/customizer.php:48
+msgid "General Setting Options"
+msgstr ""
+
+#: includes/customizer.php:59
+msgid "Enable Topbar Call To Action"
+msgstr ""
+
+#: includes/customizer.php:71
+msgid "Dismissible"
+msgstr ""
+
+#: includes/customizer.php:82
+msgid "Message"
+msgstr ""
+
+#: includes/customizer.php:83
+msgid ""
+"Note: To highlight the portion of text, wrap the text with span tag. ie: "
+"<span>Highlighted Text</span>"
+msgstr ""
+
+#: includes/customizer.php:95
+msgid "Enable Button"
+msgstr ""
+
+#: includes/customizer.php:107
+msgid "Button Position"
+msgstr ""
+
+#: includes/customizer.php:111
+msgid "Left Side"
+msgstr ""
+
+#: includes/customizer.php:112
+msgid "Right Side"
+msgstr ""
+
+#: includes/customizer.php:118 includes/functions.php:48
+msgid "View Details"
+msgstr ""
+
+#: includes/customizer.php:123
+msgid "Button Label"
+msgstr ""
+
+#: includes/customizer.php:134
+msgid "Button URL"
+msgstr ""
+
+#: includes/customizer.php:146
+msgid "Styling"
+msgstr ""
+
+#: includes/customizer.php:147
+msgid "Styling Setting Options"
+msgstr ""
+
+#: includes/customizer.php:158
+msgid "Background Color"
+msgstr ""
+
+#: includes/customizer.php:169
+msgid "Message Text Color"
+msgstr ""
+
+#: includes/customizer.php:180
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/customizer.php:191
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/customizer.php:202
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: includes/customizer.php:213
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: includes/customizer.php:282
+msgid "Yes"
+msgstr ""
+
+#: includes/customizer.php:283
+msgid "No"
+msgstr ""
+
+#: includes/settings.php:33
+msgid "TopBar CTA"
+msgstr ""
+
+#: includes/settings.php:55
+msgid "Customize TopBar Call To Action"
+msgstr ""
+
+#: includes/settings.php:56
+msgid "Documentation"
+msgstr ""
+
+#: includes/settings.php:59
+msgid "topbar call to action"
+msgstr ""
+
+#: st-topbar-cta.php:56
+msgid "Support"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.sharkthemes.com/downloads/topbar-call-to-action"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"TopBar Call To Action provides you option to add clean and elegant topbar "
+"notification or call to action section in your website. This plugin adds "
+"beauty to your website as well as it plays a very important role to upsell "
+"your products or services to a huge extent. This plugin uses customizer api "
+"to edit or customize. It is very easy to use and easy to setup."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shark Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sharkthemes.com"
+msgstr ""

@@ -1,0 +1,94 @@
+/*
+Theme Name: Try 2 Order
+Theme URI: #
+Author: Abhijit Shilawat
+Author URI: https://www.linkedin.com/in/abhijit-shilawat/
+Description: Custom theme for try2order website
+Requires at least: 6.1
+Tested up to: 6.1
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: try2order
+Tags: Custome theme
+*/
+
+#wpcf7-f313-o1 .wpcf7-number,
+#wpcf7-f313-o1 .wpcf7-text  {
+   	padding-top: 0;
+    padding-bottom: 0;
+    height: 50px;
+    background-color: #fff;
+    font-size: 16px;
+    color: #141617;
+    border-radius: 3px;
+    border: 1px solid rgb(51 51 51 / 15%);
+    width: 100%;
+	padding: 8px 15px;
+	line-height: 20px;
+}
+
+#wpcf7-f313-o1 label {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+.required-label{
+	color: red;
+    font-weight: 400;
+}
+#wpcf7-f313-o1 select{height:50px;}
+#wpcf7-f313-o1 select,
+#wpcf7-f313-o1 textarea  {
+   	width:100%;
+	border-radius: 3px;
+    border: 1px solid rgb(51 51 51 / 15%);
+	font-size: 16px;
+    color: #141617;
+	padding: 8px 15px;
+	font-family: 'Inter', sans-serif !important;
+}
+#wpcf7-f313-o1 p{margin-bottom:20px;}
+
+.wpcf7-submit {
+   padding: 10px 40px;
+    border: 1px solid #2FCE64;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 450;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #2FCE64 !important;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.imagine-a-world-animation-json {
+    position: absolute !important;
+    top: -125px;
+}
+.the_solution_video .imagine-a-world-animation-json svg {
+    width: 100% !important;
+}
+.the_solution_video{
+	height:auto !important;
+}
+
+.the_solution_video {
+    aspect-ratio: 1 !important;
+}
+.col-6 {
+    width: 50%;
+    float: left;
+    padding: 0px 15px;
+}
+.col-12{padding: 0px 15px;}
+.pum-title.popmake-title {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
+    padding-left: 15px;
+}
+@media (max-width: 767px){
+.member-info ul,.swiper-slide ul {
+    display: none;
+}
+}

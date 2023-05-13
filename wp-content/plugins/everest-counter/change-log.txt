@@ -1,0 +1,18 @@
+Version 1.0.4 (26th march 2018)
+- Done the addition of the header text to each template.
+
+version 1.0.3 (8th Feb 2018)
+- Done the bug fixings for the error occuring by including Mobile_Detect file in shortcode file.
+
+version 1.0.2(23rd nov 2017)
+- Fixed the small bug appearing for the youtube link missing for display settings.
+- Updated the wp-color-picker alpha js to latest version 2.1.2
+- Fixed the CSS issue appearing for the color picker after update of the color-picker-alpha js
+
+Version 1.0.1 (28th August 2017)
+- Added the feature to enter the counter value prefix and suffix values.
+- Allowed to enter the formatted number for the count values.
+- Done CSS fixes for all template
+
+Version 1.0.0 (1st August 2017)
+- Inital release of a plugin
